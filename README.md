@@ -1,4 +1,4 @@
-Extended GitHub Description (Copy This)
+
 📌 Project Overview
 
 The AI-Powered Campus Placement Intelligence System is an end-to-end machine learning and analytics platform designed to predict student placement outcomes based on academic performance, skill indicators, and practical exposure.
